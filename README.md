@@ -35,4 +35,13 @@ pnpm dev
 # or
 bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+**Cloning the Repository**
+
+   bash
+   git clone https://github.com/Rafiqdevhub/Next.js15_ShareIt.git
+   cd Next.js15_ShareIt
+
+
 ```
