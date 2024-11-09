@@ -1,6 +1,6 @@
-# ShareIt
+## introduction
 
-ShareIt is a Next.js-powered web application designed for easy, secure file sharing. With a user-friendly interface and efficient file management features, ShareIt enables users to upload, organize, and share files quickly and conveniently.
+A storage management and file sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
 
 ## Features
 
