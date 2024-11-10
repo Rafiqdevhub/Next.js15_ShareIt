@@ -19,6 +19,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { createAccount, signInUser } from "@/lib/actions/users.action";
 import OtpModel from "./OTPModel";
+
 type FormType = "sign-in" | "sign-up";
 
 const authFormSchema = (formType: FormType) => {
